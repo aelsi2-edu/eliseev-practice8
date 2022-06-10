@@ -1,2 +1,3 @@
 #!/usr/bin/sh
 clear
+echo EEEEEEEEEEEEEEEEEEEEEEEEEEE
