@@ -1,1 +1,0 @@
-cls.sh is a shell script to clear the screen xd 
